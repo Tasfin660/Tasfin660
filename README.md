@@ -12,7 +12,6 @@ I’m an engineering student and a Full Stack developer. I love building web app
 
 #### Still curious? Get to know me
 ###### -- Say Hi → [Gmail](mailto:tasfinhasan660@gmail.com) -- Connect → [LinkedIn](linkedin.com/in/Tasfin660)  -- Explore designs → [Dribbble](https://dribbble.com/Tasfin660) -- View projects → [YouTube](https://www.youtube.com/@tasfin660) -- Hang out and chat → [Discord](https://discord.com/users/513693207880663040)
-<small>Freelance Projects • Collaborations • Tech Discussions • Mentorship<small>
+Freelance Projects • Collaborations • Tech Discussions • Mentorship
 
 <sub>Updated: December 2025</sub>
-<small>This is smaller text.</small>
