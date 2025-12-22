@@ -1,4 +1,4 @@
-### 🙌 Hi, I'm Tasfin
+### 🙌 Hey, I'm Tasfin
 ![github-banner](./github-banner-hd.png)
 
 I’m an engineering student and a full-stack developer who enjoys building modern, scalable, and easy-to-use web applications. I care about clean code, thoughtful design, and smooth user experience, and I enjoy learning and experimenting with new technologies.
